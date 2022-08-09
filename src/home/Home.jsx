@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="home">
       <NavBar />
-      <img width="100%" />
+      <img />
     </div>
   );
 };
